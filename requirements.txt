@@ -1,0 +1,2 @@
+max-bot-api
+python-dotenv
